@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\bin\Debug\net5.0\PowerOf.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\bin\Debug\net5.0\PowerOf.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\bin\Debug\net5.0\PowerOf.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\bin\Debug\net5.0\PowerOf.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\bin\Debug\net5.0\PowerOf.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\bin\Debug\net5.0\PowerOf.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\refint\PowerOf.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\PowerOf.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\PowerOf\PowerOf\obj\Debug\net5.0\ref\PowerOf.dll

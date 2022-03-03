@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/jqycX8NY4arhuJ+dRFxsFaKiHQ1DcoGMl9DxyLDBr1sHmFIBU8poGu7cgW73zE3nAJknZ0M1hfq4UDnfnj+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Logical Problems\\Quotient\\Quotient\\Quotient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankit\\.nuget\\packages\\gremlin.net\\3.5.2\\gremlin.net.3.5.2.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

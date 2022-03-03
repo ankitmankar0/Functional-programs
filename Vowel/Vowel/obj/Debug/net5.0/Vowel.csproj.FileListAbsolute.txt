@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\bin\Debug\net5.0\Vowel.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\bin\Debug\net5.0\Vowel.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\bin\Debug\net5.0\Vowel.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\bin\Debug\net5.0\Vowel.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\bin\Debug\net5.0\Vowel.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\bin\Debug\net5.0\Vowel.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\refint\Vowel.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\Vowel.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Vowel\Vowel\obj\Debug\net5.0\ref\Vowel.dll

@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\bin\Debug\net5.0\Harmonic.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\bin\Debug\net5.0\Harmonic.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\bin\Debug\net5.0\Harmonic.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\bin\Debug\net5.0\Harmonic.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\bin\Debug\net5.0\Harmonic.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\bin\Debug\net5.0\Harmonic.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\refint\Harmonic.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\Harmonic.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Harmonic\Harmonic\obj\Debug\net5.0\ref\Harmonic.dll

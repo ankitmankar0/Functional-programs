@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\bin\Debug\net5.0\Factors.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\bin\Debug\net5.0\Factors.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\bin\Debug\net5.0\Factors.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\bin\Debug\net5.0\Factors.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\bin\Debug\net5.0\Factors.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\bin\Debug\net5.0\Factors.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\refint\Factors.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\Factors.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\Factors\Factors\obj\Debug\net5.0\ref\Factors.dll

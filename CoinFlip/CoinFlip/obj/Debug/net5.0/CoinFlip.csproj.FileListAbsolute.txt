@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\refint\CoinFlip.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problems\CoinFlip\CoinFlip\obj\Debug\net5.0\ref\CoinFlip.dll
